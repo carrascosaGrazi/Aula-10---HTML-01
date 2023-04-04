@@ -1,0 +1,16 @@
+body{
+background-color: azure;
+margin: 100px;
+}
+
+section{
+    padding: 5%;
+}
+
+.footer img{
+    width: 10%;
+}
+.redeSocial img{
+    width: 30px;
+    display: flexbox;
+}
